@@ -2,5 +2,7 @@
 class CRM
 {
     // start project
+public:
+    void Print();
 };
 
